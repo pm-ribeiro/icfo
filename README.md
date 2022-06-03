@@ -1,4 +1,4 @@
-# ICFo - Identificador e Classificador de erros fonológicos 
+# ICFo - Identificador e Classificador de erros Fonológicos 
 
 Algoritmo classificador dedicado a identificar erros fonológico segmentais em textos de crianças do ensino fundamental.
 
